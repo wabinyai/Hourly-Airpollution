@@ -22,5 +22,3 @@ data exploration
 visualize 
 statistical modeling
 (auto)correlation analysis of model features and feature selection
-PCA transformation of colinear (weather) features
-parameter selection for SARIMA model: determining differncing, seasonality, and trend components
