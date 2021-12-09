@@ -6,7 +6,7 @@ Pandas, Numpy, Jupyter
 xgboost  sklearn 
 
 
-#Methods Used
+# Methods Used
 
 Data cleaning
 Machine Learning
@@ -14,7 +14,7 @@ Regression
 Neural Networks
 Predictive Modelling
 
-#Project needs and core tasks
+# Project needs and core tasks
 
 data processing/cleaning
 process data to generate autoregressive features
