@@ -3,7 +3,9 @@ This project is tO Investigates various models to predict short-term (24 hour ad
 
 Python
 Pandas, Numpy, Jupyter
-xgboost  sklearn 
+xgboost  
+sklearn 
+Prophet
 
 
 # Methods Used
@@ -13,6 +15,7 @@ Machine Learning
 Regression
 Neural Networks
 Predictive Modelling
+
 
 # Project needs and core tasks
 
